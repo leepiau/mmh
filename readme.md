@@ -1,36 +1,29 @@
-# JDE03 Interim Project [Insight Igniters]
+# A Look into Music and it's effects on Mental Health
+[JDE03] Data Engineering Project
 
-*****************
-
-### 1. Introduction 
-(Overview, Problem Statement)
+### 1. Overview
 
 Can music improve an individual's mood and overall mental health? If so, what music can someone listen to in order to counter certain mental conditions?
 
-We seek to analyse the results from a survey of respondents regarding listening habits and mental health conditions, and based on the results, suggest tracks for the user based on her condition.
+We seek to analyse the results from a survey of respondents regarding listening habits and mental health conditions, and based on the results, recommend tracks from Spotify for the user based on her condition.
 
 ### 2. Data Sources
-(Data Chosen, Data Dictionary)
 
-Data from Kaggle, Spotify
-.
-.
-.
+Mental Health Survey Data from Kaggle
+https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results/data
 
-### 3. Methodology/Approach 
-(tech stack/tools, ETL (incl data preparation), architecture diagram, database schema/ERD diagram, table structure, data validation)
+Spotify
+https://open.spotify.com/
 
-### 4. Challenges
-(Solutions/Workarounds)/Limitations
+### 3. Methodology/Approach/Challenges/Findings
 
-- Spotify genre data questionable
-- lack of time/knowledge
+Presentation:
 
-### 5. Findings/Analysis
 
 ### 6. Next Steps/Conclusion
 - more visualisation
 - better genre/track recommendations
+- nomarlize track data, code ready
 
 ******************
 
