@@ -17,8 +17,17 @@ https://open.spotify.com/
 
 ### 3. Methodology/Approach/Challenges/Findings
 
-Presentation:
+Full presentation here:
+https://github.com/leepiau/mmh/blob/main/presentation/mmh_project.pptx
 
+Summary:
+1. MxMH dataset retrieved from Kaggle as .csv file
+2. Three songs per each of 16 genres retrieved from Spotify via API
+3. Data cleaned and transformed using Python, SQL 
+4. Data is loaded into data store (ElephantSQL DB)
+5. Data made available to Data Analyst 
+6. Data made available to Recommendation Engine
+7. Recommendation Engine calls Spotify API for other recommendations
 
 ### 6. Next Steps/Conclusion
 - more visualisation
